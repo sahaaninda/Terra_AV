@@ -4,4 +4,5 @@ Terraform Project Structure
 - input.tf
 - output.tf
 - main.tf
+- terraform.tfvars
 
